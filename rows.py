@@ -24,3 +24,4 @@ data1["three"] = ["chair",10000,"medium","comfort"]
 print(data1)
 data = data1.T
 print(data)
+
